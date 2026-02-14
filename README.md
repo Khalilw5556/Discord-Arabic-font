@@ -1,4 +1,4 @@
-# 🖋️ Arabic Font for Linux (Noto Sans)
+# 🖋️ Discord Arabic Font for Linux
 
 هذا المشروع يوفر ملف CSS بسيط لتغيير الخطوط الافتراضية إلى خط **Noto Sans Arabic/Noto Sans Arabic UI** الجميل والواضح. تم تصميمه خصيصاً لمستخدمي Linux و Discord عبر (Vencord/BetterDiscord).
 
